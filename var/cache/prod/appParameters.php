@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'disleurcbd',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'kepJuZXeRQVtiV1NxjvCBW9SXOw1iYpEYhFhxDrndu2G6DvG1RTCEwnJJNFyNQ42',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-03-10',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'tKoSqLL4tXsvEDbq1HCvskoihaI2rXDQTcKSpBqvzXnfRQbJe2CM8sY6idXhYICQ',
+    'cookie_iv' => 'bW6r2vEnuec5Y9UrXuTFzSCWhdt6EVkS',
+    'new_cookie_key' => 'def000005d7282560339a15bf62e78cfc788fff2150c8200869c0621f74dab2aad0e8e99d142fe5dbab69102c79b16833c63634b6c79e3b503348fa961644c5817b92fbf',
+  ),
+);
